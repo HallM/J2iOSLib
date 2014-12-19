@@ -33,7 +33,6 @@ The deploy target is the minimum iOS version you wish to support
 XCODEROOT
 XCODEROOT is the location of XCode on the system. The included path is the default path for XCode 5+ installations from the appstore.
 
-# the architectures required for both simulator and device
 SIMARCHS
 Architectures required for the simulator. Currently, i386 and x86_64 are used in the iOS simulator. These architectures will be compiled using the iPhoneSimulator.platform SDK
 
